@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/koding4food/reactive-gram.png?label=ready&title=Ready)](https://waffle.io/koding4food/reactive-gram)
 # reactive-gram
 [Telegram](https://core.telegram.org/api#getting-started) web application in ReactJS.
 
