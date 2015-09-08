@@ -3,6 +3,11 @@ import router from './router';
 import ecstatic from 'ecstatic';
 
 
+/**
+ * @function
+ * @returns {Object} server
+ * @description Manages the incoming requests and post-request executes stream filters
+ */
 let server = union.createServer({
   before: [
     (req, res) => {
