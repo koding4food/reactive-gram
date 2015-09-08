@@ -10,7 +10,13 @@ const defaultProps = {
   title: 'Reactive-Gram'
 };
 
-
+/**
+ * Head page component
+ *
+ * @class
+ * @classdesc Renders the base page structure
+ * @prop {String} title - contains the title of the website
+ */
 class Head extends React.Component {
 
   render() {

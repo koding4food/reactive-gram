@@ -1,6 +1,12 @@
 import React from 'react';
 
-
+/**
+ * Main application component
+ *
+ * @class
+ * @classdesc This is the application entry point
+ * @prop {String} welcomeMessage - contains the welcome message to be shown
+ */
 class App extends React.Component {
 
   render() {

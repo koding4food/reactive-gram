@@ -9,7 +9,13 @@ const propTypes = {
   }).isRequired
 };
 
-
+/**
+ * MainTemplate page component
+ *
+ * @class
+ * @classdesc Renders the base page structure
+ * @prop {Object} children - content to be render on the page body
+ */
 class MainTemplate extends React.Component {
 
   render() {
