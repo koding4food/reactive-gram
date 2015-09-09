@@ -10,12 +10,11 @@
 * **Tests:** [Mocha](https://mochajs.org/) + [ChaiJS](http://chaijs.com/)
 * **Utilities:** [lodash](https://lodash.com/)
 * **Templating:** [React](http://facebook.github.io/react/)
-* **Styling:** [SASS](http://sass-lang.com/)
+* **Styling:** [Inline styles with JavaScript](https://github.com/reactjs/react-future/blob/master/04%20-%20Layout/04%20-%20Inline%20Styles.md)
 
 # Coding Style
 * **React:** [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * **JavaScript:** [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* **CSS:** [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
 
 # Git workflow
 * [**Forking Workflow**](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
